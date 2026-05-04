@@ -1,0 +1,6 @@
+{
+  "name": "agent-pald-analizador-de-texto-con-conteo-morty0jn",
+  "version": "1.0.0",
+  "description": "Proyecto de Pald [Gen20]: analizador de texto con conteo de palabras y estadisticas",
+  "main": "index.js"
+}
